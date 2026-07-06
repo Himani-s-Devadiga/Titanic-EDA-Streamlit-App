@@ -34,6 +34,7 @@ streamlit run app.py
 
 Live Demo:
 https://mapping-acc-marks-intense.trycloudflare.com/
+Deploy on Streamlit Community Cloud
 
 A Streamlit-based Titanic dataset EDA application with dataset insights, missing value analysis, and visualizations.
 
