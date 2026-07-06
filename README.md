@@ -30,6 +30,13 @@ Titanic-EDA-Streamlit-App/
 pip install -r requirements.txt
 streamlit run app.py
 
+# Titanic EDA Streamlit App
+
+Live Demo:
+https://mapping-acc-marks-intense.trycloudflare.com/
+
+A Streamlit-based Titanic dataset EDA application with dataset insights, missing value analysis, and visualizations.
+
 ## Author
 Himani S. Devadiga
 
