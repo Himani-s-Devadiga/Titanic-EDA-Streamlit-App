@@ -10,15 +10,25 @@ A Streamlit-based Exploratory Data Analysis (EDA) application using the Titanic 
 - Heatmap visualization
 - Exploratory Data Analysis (EDA)
 
-## Technologies Used
+## Tech Stack
 - Python
 - Pandas
 - Streamlit
 - Matplotlib
 - Seaborn
 
-## Dataset
-Titanic Dataset
+## Project Structure
+
+Titanic-EDA-Streamlit-App/
+├── app.py
+├── requirements.txt
+├── Titanic-Dataset.csv
+└── README.md
+
+## How to Run
+
+pip install -r requirements.txt
+streamlit run app.py
 
 ## Author
 Himani S. Devadiga
